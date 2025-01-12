@@ -3,7 +3,6 @@ title: "【Flutter】Clineで日記アプリを作ってみた"
 emoji: "📖"
 type: "tech"
 topics: [flutter,dart,cline,llm]
-publication_name: "zoome"
 published: true
 ---
 
