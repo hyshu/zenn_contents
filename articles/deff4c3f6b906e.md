@@ -6,8 +6,8 @@ topics: [flutter,dart,cline,llm]
 published: true
 ---
 
-昨日から[Cline](https://github.com/cline/cline)を使い始めたので勉強がてらにFlutterアプリを1から作らせてみました。
-Cline 3.1.0、Deep Seek Chat を使用しました。
+昨日から[Cline](https://github.com/cline/cline)を使い始めたので勉強がてらにFlutterアプリを一から作らせてみました。
+Cline 3.1.0、DeepSeek Chat を使用しました。
 
 # 準備
 ## Flutterプロジェクトの作成
@@ -25,7 +25,7 @@ flutter create calendar_example --platforms=ios,android
 
 `ios`と`android`ディレクトリーも別の場所に退避しておきます。
 これでファイルとディレクトリーは以下の三つだけになります。
-1. `lib`
+1. `lib/main.dart`
 2. `pubspec.yaml`
 3. `test`
 
