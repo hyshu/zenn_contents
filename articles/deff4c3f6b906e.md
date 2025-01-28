@@ -9,6 +9,13 @@ published: true
 昨日から[Cline](https://github.com/cline/cline)を使い始めたので勉強がてらにFlutterアプリを一から作らせてみました。
 Cline 3.1.0、DeepSeek Chat を使用しました。
 
+:::message
+本記事には続編があります。
+
+【Flutter】 Clineと DeekSeek R1 で日記アプリを作ってみた
+https://zenn.dev/hyshu/articles/57aedca93235b5
+:::
+
 # 準備
 ## Flutterプロジェクトの作成
 ```
